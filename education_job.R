@@ -35,7 +35,7 @@ sidebar <- dashboardSidebar(
     menuItem("Education vs Work Field", tabName = "edujob", icon = icon("book")), 
     menuItem("Consumption", tabName = "consSum", icon = icon("cutlery")), 
     menuItem("Widgets", tabName = "widgets", icon = icon("th")), 
-    menuItem("Visit My GitHub", icon = icon("github"), href = "https://github.com/erikaris"),
+    menuItem("Visit My GitHub", icon = icon("github"), href = "https://github.com/erikaris/R_learn"),
     menuItem("Visit My Blog", icon = icon("globe"), href = "http://erikaris.com")
   )
 )
